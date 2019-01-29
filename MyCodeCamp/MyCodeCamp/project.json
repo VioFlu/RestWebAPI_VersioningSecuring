@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "automapper": "7.0.1",
+    "automapper.extensions.microsoft.dependencyinjection": "5.0.1",
+    "Microsoft.AspNetCore.Mvc.Versioning":  "2.1.0",
+    "MyCodeCamp.Data": {
+      "target": "project"
+    }
+  }
+}
